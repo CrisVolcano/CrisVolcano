@@ -1,5 +1,7 @@
-## Hi everyone, I'm Cristian Aguilar-Barboza. 🤜🏽
-- 🛰️ I’m currently working in remote sensing
+# Hi everyone, I'm Cristian Aguilar-Barboza. 🤜🏽
+
+- 🇨🇷 I’m from Costa Rica.
+- 🛰️ I’m currently working in remote sensing. 
 - 💻 I’m currently learning programming, machine learning and SAR.
 
 
